@@ -1,15 +1,15 @@
 (function() {
 
   var universalCode = {
-    'amazon.co.uk': 'tag=',
-    'amazon.com': 'tag=pragmatentrep-20',
-    'amazon.de': 'tag=',
-    'amazon.fr': 'tag=pragmaticentrepreneurs-21',
+    'amazon.co.uk': 'tag=movmix-20',
+    'amazon.com': 'tag=movmix-20',
+    'amazon.de': 'tag=movmix-20',
+    'amazon.fr': 'tag=movmix-20',
     'javari.co.uk': 'tag=',
     'javari.de': 'tag=',
     'javari.fr': 'tag=pragmaticentrepreneurs-21',
-    'amazonsupply.com': 'tag=',
-    'amazonwireless.com': 'tag=',
+    'amazonsupply.com': 'tag=movmix-20',
+    'amazonwireless.com': 'tag=movmix-20',
     'endless.com': 'tag=',
     'digitalocean.com': 'refcode=fdc7761ea776'
   };
